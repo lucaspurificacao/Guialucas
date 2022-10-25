@@ -1,0 +1,22 @@
+button{
+    color: brown;
+    border-radius: 10px;
+    margin: 100px 0px 0px 100px;
+    padding: 15px;
+    background-color: black;
+}
+
+img{
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+}
+h4{
+    color: blue;
+    margin-left: 50px;
+}
+a{
+    color:violet;
+    margin-left: 50px;
+}
