@@ -1,0 +1,18 @@
+label{
+    color: red;
+    font-size:larger;
+}
+
+button{
+    color:blue;
+     border-radius: 25px;
+}
+
+input{
+    border-radius: 10px;
+}
+
+div{
+    flex-direction: row;
+}
+
